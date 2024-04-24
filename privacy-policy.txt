@@ -1,0 +1,9 @@
+# Privacy Policy
+
+This privacy policy applies to the use of Refarm mobile app.
+
+## Information Collection and Use
+
+We do not collect any personally identifiable information through our app.
+
+Application uses camera access to scan the QR code to add new devices easly
